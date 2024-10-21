@@ -1,1 +1,1 @@
-https://submit.xz61.cn:22443/api/v1/client/subscribe?token=9fecebdec9e8f7e04e22aa2bbfce414c
+https://cloudfront-cdn-hk-iplc1.com/sub/r/wr7CsXbDosKcwrvDh8KWw6DCpMK8wrt2w5zCnMK-w4LCo8OWwqTCq3rCu8Kww5XCv8K0wp7DmcKkwqvCu8K1/
